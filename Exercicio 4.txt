@@ -1,0 +1,43 @@
+Propriedades p1
+
+Data: 23/09/2023
+Hora: 10:30:24
+Nome do paciente: Lucas Gomes
+Nome do médico: Dr. Rodrigo Braga
+Quantidade de consultas agendadas: 1
+
+Digite o ano: 2023
+Digite o mês: 02
+Digite o dia: 16
+Digite a hora: 18
+Digite os minutos: 30
+Digite os segundos: 02
+Entre com o nome do paciente: Wellington
+Entre com o nome do médico: Dr Tuler
+
+Propriedades p2
+
+Data: 16/02/2023
+Hora: 18:30:02
+Nome do paciente: Wellington        
+Nome do médico: Dr Tuler
+Quantidade de consultas agendadas: 2
+
+Alterando valores do p1
+
+Digite o ano: 2020
+Digite o mês: 06
+Digite o dia: 3
+Digite a hora: 21
+Digite os minutos: 17
+Digite os segundos: 58
+Entre com o nome do paciente: Jubileu
+Entre com o nome do médico: Dr Abreu
+
+Propriedades p1
+
+Data: 03/06/2020
+Hora: 21:17:58
+Nome do paciente: Jubileu
+Nome do médico: Dr Abreu
+Quantidade de consultas agendadas: 2
